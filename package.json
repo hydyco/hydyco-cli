@@ -1,0 +1,29 @@
+{
+  "name": "create-hydyco-app",
+  "version": "0.0.3",
+  "description": "Hydyco helps you to build APIs very fast 💨",
+  "main": "index.js",
+  "bin": {
+    "create-hydyco-app": "./index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "create-file": "^1.0.1",
+    "figlet": "^1.5.2",
+    "git-clone": "^0.1.0",
+    "inquirer": "^8.1.2",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "node-cmd": "^5.0.0",
+    "rmdir": "^1.2.0",
+    "touch": "^3.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Rahul Tanwar <mr.rahultanwar@gmail.com>",
+  "license": "ISC"
+}
